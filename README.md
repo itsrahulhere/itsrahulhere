@@ -1,4 +1,33 @@
-<!-- <h1 align="center">Hi 👋, I'm Rahul</h1>
+### Hi there 👋 I am Rahul
+
+## I am a Full Stack Web Developer
+
+- 🔭 I’m currently working on Angular
+- 🌱 I’m currently learning Data Structures and Algorithms
+- 👯 I’m looking to collaborate on web development
+- 💬 Ask me about HTML, CSS, Bootstrap and Angular
+- 📫 How to reach me: Email me on :- rahulofspv@gmail.com
+
+### 📍 things i do ...
+- **Languages:** C++, Java, JavaScript
+- **Web Development:** HTML, CSS, Bootstrap, Angular, ReactJS (Basic), Spring Boot, Spring MVC, NodeJS, ExpressJS
+- **Database:** SQL, MongoDB
+- **Tools:** VS Code, Eclipse, Maven, MySQL Workbench, Postman, Git Bash
+- **Soft Skills:** Attention to Detail, Creative Thinker, Collaborative, Time Management
+
+### 📍 profiles ...
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/itsrahulhere/)  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/itsrahulhere_/practice/)
+
+<!-- ## 📍 things i do ..
+
+- **Languages:** C++, Java, JavaScript
+- **Web Development:** HTML, CSS, Bootstrap, Angular, ReactJS (Basic), Spring Boot, Spring MVC, NodeJS, ExpressJS
+- **Database:** SQL, MongoDB
+- **Tools:** VS Code, Eclipse, Maven, MySQL Workbench, Postman, Git Bash
+- **Soft Skills:** Attention to Detail, Creative Thinker, Collaborative, Time Management -->
+
+<!--  <h1 align="center">Hi 👋, I'm Rahul</h1>
 <h3 align="center">A computer science student</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsrahulhere" alt="itsrahulhere" /></a> </p>
