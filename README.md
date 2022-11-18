@@ -15,9 +15,18 @@
 - **Tools:** VS Code, Eclipse, Maven, MySQL Workbench, Postman, Git Bash
 - **Soft Skills:** Attention to Detail, Creative Thinker, Collaborative, Time Management
 
-### 📍 profiles ...
+### 📍 coding profiles ...
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/itsrahulhere/)  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/itsrahulhere_/practice/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/itsrahulhere/)  [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/itsrahulhere_/practice/) [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/itsrahulhere_)
+
+### 📍 let's connect ...
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsrahulhere/)  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/itsrahulhere_)
+
+
+
+
+
 
 <!-- ## 📍 things i do ..
 
