@@ -2,15 +2,15 @@
 
 ## I am a Full Stack Web Developer
 
-- 🔭 I’m currently working on Angular
+- 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on web development
-- 💬 Ask me about HTML, CSS, Bootstrap and Angular
+- 💬 Ask me about HTML, CSS and ReactJS
 - 📫 How to reach me: Email me on :- rahulofspv@gmail.com
 
 ### 📍 things i do ...
 - **Languages:** C++, Java, JavaScript
-- **Web Development:** HTML, CSS, Bootstrap, Angular, ReactJS (Basic), Spring Boot, Spring MVC, NodeJS, ExpressJS
+- **Web Development:** HTML, CSS, Bootstrap, Angular, ReactJS, Spring Boot, Spring MVC, NodeJS, ExpressJS
 - **Database:** SQL, MongoDB
 - **Tools:** VS Code, Eclipse, Maven, MySQL Workbench, Postman, Git Bash
 - **Soft Skills:** Attention to Detail, Creative Thinker, Collaborative, Time Management
