@@ -11,6 +11,7 @@
 ### 📍 things i do ...
 - **Languages:** C++, Java, JavaScript
 - **Web Development:** HTML, CSS, Bootstrap, Angular, ReactJS, Spring Boot, Spring MVC, NodeJS, ExpressJS
+- **App Development:** React Native
 - **Database:** SQL, MongoDB
 - **Tools:** VS Code, Eclipse, Maven, MySQL Workbench, Postman, Git Bash
 - **Soft Skills:** Attention to Detail, Creative Thinker, Collaborative, Time Management
